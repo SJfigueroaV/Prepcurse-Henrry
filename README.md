@@ -1,2 +1,1 @@
-# Prepcurse-Henrry
-Prep curse modulo 2
+Este es proyecto es una prueba de como crear un repositorio en github y clonarlo en mi escritorio local
